@@ -18,19 +18,19 @@ Utilizamos a linguagem Python, que é uma linguagem de sintaxe simples e que é 
 
 Por fim temos o resultado do código. Irei explicar como foi o meu raciocínio em cada parte dele, e como desenvolvi a lógica por trás.
 
-![1](https://github.com/JoseErivan/IMC_CALCULATOR/assets/105927510/64363cbd-ece9-4bbd-b859-46c71b6c45e9)
+![1](https://github.com/JoseErivan/IMC_CALCULATOR/assets/105927510/710a5f75-ab6d-4718-95a4-94b5759341d0)
 
 Nessa primeira parte nós temos as informações sobre a disciplina e o assunto da prática. Começamos dando as boas vindas ao usuário e deixando explícito a função do nosso programa. Então temos a requisição dos dados do usuário feita pelo programa, onde ele determina que irá precisar do peso e altura. Nesse ponto também temos a checagem e validação dos dados do usuário, é um tópico um pouco mais avançado, porém como já o estudei fiz a implementação.
 
-![2](https://github.com/JoseErivan/IMC_CALCULATOR/assets/105927510/d8b90803-8881-480c-a22e-64077cb42e0f)
+![2](https://github.com/JoseErivan/IMC_CALCULATOR/assets/105927510/6cd561ee-efd7-4803-9adc-dec4c30406a4)
 
 Prosseguimos com o cálculo do IMC ou Índice de massa corporal, onde sua fórmula é definida com:
 
-![3](https://github.com/JoseErivan/IMC_CALCULATOR/assets/105927510/1fe3407a-140c-4d07-a0d2-144398c86779)
+![3](https://github.com/JoseErivan/IMC_CALCULATOR/assets/105927510/3eb2c143-3d2b-4d9f-a38b-bfd0f4336788)
 
 Logo após isso, precisamos pesquisar as faixas de valores do IMC ideais e suas implicações, para fornecer as informações sobre o que esse resultado significa, então temos:
 
-![4](https://github.com/JoseErivan/IMC_CALCULATOR/assets/105927510/21a1c825-01c4-4ee1-b0c2-b92f72cf1e07)
+![4](https://github.com/JoseErivan/IMC_CALCULATOR/assets/105927510/55f40496-7343-4f6b-b414-5fc932181270)
 
 Com a faixa de IMC em mãos, implementamos então a lógica por trás de cada uma classificação de acordo com o valor final e em qual faixa ele se encontra. Por fim passamos essa informação para o usuário, entregando diretamente o seu resultado junto com uma indicação sobre o estado atual e o valor ideal da maneira mais simples e clara possível.
 
@@ -40,6 +40,11 @@ Esse projeto possibilitou o exercício de todos os conteúdos aprendido ao longo
 Tivemos também a oportunidade de conhecer a ferramenta do  Google Cloud Shell que é uma ferramenta muito completa para aqueles que querem desenvolver sem precisar antes fazer muitas configurações em sua máquina local, e até ter a experiência de desenvolver um programa em nuvem, em um sistema operacional amplamente utilizado no mundo do desenvolvimento, que é o Linux.
 
 Obrigado pela visita!
+
+
+
+
+
 
 
 
